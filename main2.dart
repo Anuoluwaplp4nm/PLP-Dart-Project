@@ -35,7 +35,6 @@ void main() {
 'Olayemi' : 13,
 'Ejiro' : 14,
 };
-  
   //Printing the variables as coded.
   print("My name is $name and I am from $Location.");
   print("I am a $Occupation, married? $status, with $children children and with an average of height of $scale ft.");
